@@ -1,0 +1,5 @@
+git+https://github.com/craftoid/twitterbot
+pillow
+numpy
+moviepy
+imageio
